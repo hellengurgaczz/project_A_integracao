@@ -1,0 +1,33 @@
+{
+  "name": "project_a_integracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellengurgaczz/project_A_integracao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellengurgaczz/project_A_integracao/issues"
+  },
+  "homepage": "https://github.com/hellengurgaczz/project_A_integracao#readme",
+  "devDependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "mysql2": "^3.4.2",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.32.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
